@@ -5,5 +5,7 @@ This Repository, contains scripts, and programs what was created, to automate so
   ERP Folder, contain project's what was created to automate some projects.
 
 <h2>Powershell</h2>
-
+  Powershell Folder, contain Scripts, that was created to operate in Windows ENV. 
+  
 <h2>SQL</h2>
+  SQL Folder, contain SQL scripts, that help recive data, from DB, to better analyze data. 
