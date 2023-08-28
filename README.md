@@ -1,2 +1,3 @@
-# Scripts
-This Repository contain list of scripts that i created.
+#Scripts 
+
+This Repository, contains scripts what was created, to automate systems.
