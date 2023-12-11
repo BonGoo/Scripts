@@ -1,0 +1,2 @@
+Error during synchronization: name 'firebird_cursor' is not defined
+Error during synchronization: ('IM002', '[IM002] [Microsoft][Menedżer sterowników ODBC] Nie można odnaleźć nazwy źródła danych, a nie ma podanego sterownika domyślnego (0) (SQLDriverConnect)')
